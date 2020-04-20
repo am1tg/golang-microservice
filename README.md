@@ -1,1 +1,1 @@
-# golang-microservice
+Microservice implementation in Golang, MongoDB and Docker.
